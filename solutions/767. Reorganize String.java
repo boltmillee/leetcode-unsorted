@@ -1,3 +1,5 @@
+//Can also be done using Priority queue.
+​
 class Solution {
     public String reorganizeString(String s) {
         HashMap<Character, Integer> map = new HashMap();
