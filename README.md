@@ -11,3 +11,4 @@
 |529|[ Minesweeper](https://leetcode.com/problems/minesweeper/)|[Java](./solutions/529.%20Minesweeper.java)|1 ms|
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](./solutions/767.%20Reorganize%20String.java)|17 ms|
 |1415|[ The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[Java](./solutions/1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.java)|62 ms|
+|1561|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Java](./solutions/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.java)|40 ms|
