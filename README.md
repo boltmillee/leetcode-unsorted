@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./solutions/22.%20Generate%20Parentheses.java)||
+|31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./solutions/31.%20Next%20Permutation.java)|1 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./solutions/42.%20Trapping%20Rain%20Water.java)|1 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |93|[ Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](./solutions/93.%20Restore%20IP%20Addresses.java)|11 ms|
