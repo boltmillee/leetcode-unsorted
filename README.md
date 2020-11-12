@@ -6,6 +6,7 @@
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./solutions/31.%20Next%20Permutation.java)|1 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./solutions/42.%20Trapping%20Rain%20Water.java)|1 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Java](./solutions/46.%20Permutations.java)|2 ms|
+|47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](./solutions/47.%20Permutations%20II.java)|1 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |93|[ Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](./solutions/93.%20Restore%20IP%20Addresses.java)|11 ms|
 |103|[ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Java](./solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.java)|1 ms|
