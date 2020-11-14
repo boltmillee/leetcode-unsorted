@@ -12,6 +12,7 @@
 |103|[ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Java](./solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.java)|1 ms|
 |124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Java](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.java)|1 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](./solutions/128.%20Longest%20Consecutive%20Sequence.java)|6 ms|
+|146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./solutions/146.%20LRU%20Cache.java)|12 ms|
 |150|[ Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Java](./solutions/150.%20Evaluate%20Reverse%20Polish%20Notation.java)|5 ms|
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|0 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.java)|1 ms|
